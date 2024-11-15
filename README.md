@@ -2,12 +2,14 @@
 
 
 ###Project Overview
-This Project contains analysis of sales of seven products marketed by an e-commerce company across four geographical regions.
+
+This Project contains sales analysis of seven products sold by an e-commerce company across four geographical regions.
 
 
 
 ###Data Sources
-The Data used in this analysis were sourced from the Excel Spreadsheet of the e-commerce company. 
+
+The Data used in this analysis were sourced from the Excel spreadsheet of the e-commerce company. 
 
 
 
